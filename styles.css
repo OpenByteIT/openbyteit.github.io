@@ -67,6 +67,10 @@ nav a:hover {
   color: #7ee787;
 }
 
+nav a:active {
+  color: #7ee787;
+}
+
 main {
   max-width: 1024px;
   margin: 0 auto;
